@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		DEB74D161DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB74D151DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp */; };
 		DEB74D1F1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB74D1E1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp */; };
+		DEB833121DA77B0D00E74877 /* UVa247 Calling Circles.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB833111DA77B0D00E74877 /* UVa247 Calling Circles.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		DEB74D1C1DA756E9002CBDA4 /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
 		DEB74D1D1DA756F2002CBDA4 /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
 		DEB74D1E1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 1395 Slim Span.cpp"; sourceTree = "<group>"; };
+		DEB833111DA77B0D00E74877 /* UVa247 Calling Circles.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "UVa247 Calling Circles.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				DEB74D1C1DA756E9002CBDA4 /* in */,
 				DEB74D1D1DA756F2002CBDA4 /* out */,
 				DEB74D1E1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp */,
+				DEB833111DA77B0D00E74877 /* UVa247 Calling Circles.cpp */,
 			);
 			path = graph_mode_11_bac2nd;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				DEB74D1F1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp in Sources */,
 				DEB74D161DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp in Sources */,
+				DEB833121DA77B0D00E74877 /* UVa247 Calling Circles.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +249,7 @@
 				DEB74D1B1DA756BA002CBDA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
