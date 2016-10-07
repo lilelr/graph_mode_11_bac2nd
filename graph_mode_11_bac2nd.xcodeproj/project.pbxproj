@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DEB74D161DA756BA002CBDA4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB74D151DA756BA002CBDA4 /* main.cpp */; };
+		DEB74D161DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB74D151DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp */; };
+		DEB74D1F1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB74D1E1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,10 @@
 
 /* Begin PBXFileReference section */
 		DEB74D121DA756BA002CBDA4 /* graph_mode_11_bac2nd */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = graph_mode_11_bac2nd; sourceTree = BUILT_PRODUCTS_DIR; };
-		DEB74D151DA756BA002CBDA4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DEB74D151DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = " UVa1151 Buy or Build.cpp"; sourceTree = "<group>"; };
+		DEB74D1C1DA756E9002CBDA4 /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
+		DEB74D1D1DA756F2002CBDA4 /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
+		DEB74D1E1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 1395 Slim Span.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +61,10 @@
 		DEB74D141DA756BA002CBDA4 /* graph_mode_11_bac2nd */ = {
 			isa = PBXGroup;
 			children = (
-				DEB74D151DA756BA002CBDA4 /* main.cpp */,
+				DEB74D151DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp */,
+				DEB74D1C1DA756E9002CBDA4 /* in */,
+				DEB74D1D1DA756F2002CBDA4 /* out */,
+				DEB74D1E1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp */,
 			);
 			path = graph_mode_11_bac2nd;
 			sourceTree = "<group>";
@@ -118,7 +125,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEB74D161DA756BA002CBDA4 /* main.cpp in Sources */,
+				DEB74D1F1DA75729002CBDA4 /* Uva 1395 Slim Span.cpp in Sources */,
+				DEB74D161DA756BA002CBDA4 /*  UVa1151 Buy or Build.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
