@@ -1,5 +1,6 @@
 // UVa1395 Slim Span
 // Rujia Liu
+// 最小生成树 + 并查集
 #include <algorithm>
 #include <cmath>
 #include <cstdio>
